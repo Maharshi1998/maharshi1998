@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Meharshi Mehta</h1>
+<h1 align="center">Hi , I'm Maharshi Mehta</h1>
 <h3 align="center">I'm passionate about Passionate data scientist skilled in transforming raw data into actionable insights through advanced analytics, exploratory data analysis (EDA), and machine learning. Experienced in solving real-world problems, optimizing business processes, and predicting market trends. Dedicated to continuous learning, I stay at the forefront of data science technologies and methodologies. Committed to building ethical and responsible AI, I believe in the power of collaboration across disciplines. Proficient in data visualization for storytelling and enthusiastic about democratizing data access. Let's leverage the potential of data to drive meaningful impact and foster a data-informed culture. 💻📊✨.</h3>
 
 -  I’m currently working on **Aspect-Based Sentiment Analysis**
@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **maharshimehta8@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maharshim11/](https://www.linkedin.com/in/maharshim11/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/maharshim11/](https://www.linkedin.com/in/maharishi33/)
 
 - ⚡ Fun fact **My coding style is as diverse as my investment portfolio. From Python to R, I believe in adapting to the right language for the task at hand! 🐍📈💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maharshim11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maharshim11/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maharishi33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maharishi33/" height="30" width="40" /></a>
 </p>
 
 
